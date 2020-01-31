@@ -1,5 +1,7 @@
 # Webhook Overview
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/webhook.svg)](https://greenkeeper.io/)
+
 This repository is for the Webhook command line tools. There are several other repositories in Webhook's core.
 
 * [webhook](https://github.com/webhook/webhook) - The Webhook command line tools.
