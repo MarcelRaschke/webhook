@@ -38,7 +38,7 @@
     "adm-zip": "~0.4.3",
     "lodash": "~2.4.1",
     "github": "~0.1.12",
-    "firebase": "1.0.2",
+    "firebase": "8.3.0",
     "restler": "~3.1.0",
     "mime": "~1.2.11",
     "archiver": "~0.6.1",
