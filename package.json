@@ -29,7 +29,7 @@
   "homepage": "http://www.webhook.com/",
   "readmeFile": "README.md",
   "dependencies": {
-    "commander": "~2.1.0",
+    "commander": "~7.1.0",
     "colors": "~0.6.2",
     "async": "~0.2.9",
     "wrench": "~1.5.4",
