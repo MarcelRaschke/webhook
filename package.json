@@ -42,6 +42,6 @@
     "restler": "~3.1.0",
     "mime": "~1.2.11",
     "archiver": "~0.6.1",
-    "inquirer": "~0.5.1"
+    "inquirer": "~8.0.0"
   }
 }
